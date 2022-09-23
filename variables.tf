@@ -24,6 +24,9 @@ variable "vpc_cidr_block" {
   type        = string
 }
 
+
+
+
 /* variable "enable_dhcp_options" {
   description = "Enable creation of DHCP Options"
   type        = bool
